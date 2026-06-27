@@ -153,8 +153,3 @@ Please open issues for bugs or feature requests.
 
 ## 📄 License
 This project is released under the **MIT License**. See the `LICENSE` file for details.
-
----
-
-## ⚡ Credits
-Created by **Spandan Chakraborty**.
