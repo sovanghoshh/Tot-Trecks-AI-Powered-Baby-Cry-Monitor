@@ -1,4 +1,4 @@
-# Tot Trecks: AI-Powered Baby Cry Monitor
+# ToT Trecks: AI-Powered Baby Cry Monitor
 
 An intelligent baby monitoring app that uses deep learning to detect an infant's cry in real-time, giving parents peace of mind via a live web dashboard and event logging.
 
