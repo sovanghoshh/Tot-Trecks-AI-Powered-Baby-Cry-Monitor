@@ -5,8 +5,7 @@ An intelligent baby monitoring app that uses deep learning to detect an infant's
 ---
 
 ## 🧭 Problem — The Parent Anxiety Gap
-Over **60%** of working parents report high anxiety about their baby’s safety.  
-Traditional monitors give audio/video but lack intelligence and actionable insights, leaving parents unsure, anxious, and sometimes unable to intervene during critical moments.
+Over **60%** of working parents report high anxiety about their baby’s safety. Traditional monitors give audio/video but lack intelligence and actionable insights, leaving parents unsure, anxious, and sometimes unable to intervene during critical moments.
 
 **Key pain points**
 - No real-time visibility into baby’s emotional/physical state.  
@@ -65,7 +64,7 @@ This system bridges that gap by adding AI-powered detection and instant alerts o
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Spandan-Chakraborty/AI-Baby-Monitor.git
+git clone https://github.com/sovanghoshh/Tot-Trecks-AI-Powered-Baby-Cry-Monitor.git
 cd AI-Baby-Monitor
 ```
 > Replace the repo URL if different.
